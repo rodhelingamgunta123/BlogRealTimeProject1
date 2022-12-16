@@ -2,7 +2,7 @@
 {% extends 'BlogApp/base.html' %}
 {% block content %}
     <div id="div4">
-    <h2>Comment Form></h2>
+    <h2 style="color: orange">Comment Form></h2>
     {% with comments.count as comments_count %}
         <h2>{{ comments_count }}Comment{{ comments_count|pluralize }}</h2>
     {% endwith %}

@@ -64,7 +64,7 @@ class postlistview(ListView):
 
 
 from django.core.mail import send_mail
-#send_mail('Hello', "Iam Yashwanth..",'uppalayashwanth904@gmail.com',['varunsai0089@gmail.com','uppalakavitha904@gmail.com','srinivas.kosuru456@gmail.com'])
+#send_mail('Hello', "Iam RODHE..",'lrodherodhe@gmail.com',['rodhelingamgunta@gmail.com'])
 from  BlogApp.forms import Emailsendform
 
 
